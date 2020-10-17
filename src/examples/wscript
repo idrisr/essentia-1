@@ -60,6 +60,7 @@ example_sources_fileio = [
     ('streaming_rhythmextractor_multifeature', ),
     ('streaming_onsetrate', ),
     ('streaming_panning', ),
+    ('streaming_percival', ),
     ('streaming_pitchyinfft', ),
     ('streaming_predominantpitchmelodia', ),
     ('streaming_chromacrosssimilarity', ),
